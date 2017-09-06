@@ -1,0 +1,9 @@
+Building Tasoha
+
+See doc/readme-qt.rst for instructions on building Tasoha-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tasoha.
+
+See doc/build-*.txt for instructions on building tasohad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tasoha.
